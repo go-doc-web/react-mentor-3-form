@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mentor-3-form/static/css/main.7acaea2f.css",
+    "main.js": "/react-mentor-3-form/static/js/main.07d3183d.js",
+    "index.html": "/react-mentor-3-form/index.html",
+    "main.7acaea2f.css.map": "/react-mentor-3-form/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-mentor-3-form/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
