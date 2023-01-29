@@ -1,5 +1,8 @@
 // import MyBooks from 'modules/MyBooks/MyBooks';
-import MyFrends from 'modules/MyFreands/MyFrends';
+// import MyFrends from 'modules/MyFreands/MyFrends';
+
+import PostsSearch from 'modules/PostsSearch/PostsSearch';
+// import Profile from 'modules/Profile/Profile';
 
 const App = () => {
   return (
@@ -13,8 +16,11 @@ const App = () => {
     //   color: '#010101',
     // }}
     >
+      {/* <Profile /> */}
       {/* <MyBooks /> */}
-      <MyFrends />
+      {/* <MyFrends /> */}
+
+      <PostsSearch />
     </div>
   );
 };
